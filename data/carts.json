@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "664440939a6b1241ec2bd359"
+  },
+  "date": {
+    "$date": "2024-05-15T03:22:00.566Z"
+  },
+  "id_user": "66442c2f9a6b1241ec2bd2c1",
+  "products": [
+    {
+      "release_date": {
+        "$date": "2021-05-27T00:00:00.000Z"
+      },
+      "describe": "mieu ta nè",
+      "_id": "60afbf783f319427446004ba",
+      "id_category": "60abb5933be8d82674051ca3",
+      "name": "Lấy Nước Đường Xa",
+      "price": 25000,
+      "img": "https://th.bing.com/th/id/OIP.Fpq3c1mIBSgl0oXzig_pbgHaLY?rs=1&pid=ImgDetMain",
+      "id_nsx": "60abb5b13be8d82674051ca7",
+      "count": 1
+    },
+    {
+      "release_date": {
+        "$date": "2021-05-26T00:00:00.000Z"
+      },
+      "describe": "miue tả nè",
+      "_id": "60afc0eb3f319427446004be",
+      "id_category": "60abb59e3be8d82674051ca4",
+      "name": "Nếu Một Ngày Cậu Rời Xa",
+      "price": 200000,
+      "img": "https://th.bing.com/th/id/R.2228dfacc1feff8493f4a58a23abde1e?rik=dCh08NvjMB8VYw&pid=ImgRaw&r=0",
+      "id_nsx": "60abb5b53be8d82674051ca8",
+      "count": 1
+    }
+  ],
+  "__v": 0
+}]
